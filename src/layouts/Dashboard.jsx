@@ -14,7 +14,7 @@ export default function Dashboard() {
             <Categories />
           </Grid.Column>
           <Grid.Column width={12}>
-            <ProductList />
+           <ProductList/>
           </Grid.Column>
         </Grid.Row>
       </Grid>
